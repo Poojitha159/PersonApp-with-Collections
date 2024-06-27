@@ -1,7 +1,9 @@
-package com.techlabs.model;
+package com.techlabs.test;
 
 import java.util.LinkedList;
 import java.util.Scanner;
+
+import com.techlabs.model.Person;
 
 public class LinkedListDemo {
 
